@@ -1,0 +1,6 @@
+1 logic 2 
+2 math3 2
+3 is 2
+4 ds 2
+5 rw 2
+6 probability 2

@@ -1,0 +1,2 @@
+Administrator 0000000
+manager 101010

@@ -1,0 +1,16 @@
+﻿  Main.cpp
+  classes.cpp
+e:\computer.science\fcis\second.year\ds\ds__\project1\classes.cpp(194): warning C4018: '<': signed/unsigned mismatch
+e:\computer.science\fcis\second.year\ds\ds__\project1\classes.cpp(268): warning C4018: '<': signed/unsigned mismatch
+e:\computer.science\fcis\second.year\ds\ds__\project1\classes.cpp(273): warning C4018: '<': signed/unsigned mismatch
+e:\computer.science\fcis\second.year\ds\ds__\project1\classes.cpp(285): warning C4018: '<': signed/unsigned mismatch
+e:\computer.science\fcis\second.year\ds\ds__\project1\classes.cpp(289): warning C4018: '<': signed/unsigned mismatch
+e:\computer.science\fcis\second.year\ds\ds__\project1\classes.cpp(322): warning C4018: '<': signed/unsigned mismatch
+e:\computer.science\fcis\second.year\ds\ds__\project1\classes.cpp(363): warning C4018: '<': signed/unsigned mismatch
+e:\computer.science\fcis\second.year\ds\ds__\project1\classes.cpp(366): warning C4018: '<': signed/unsigned mismatch
+e:\computer.science\fcis\second.year\ds\ds__\project1\classes.cpp(388): warning C4018: '<': signed/unsigned mismatch
+e:\computer.science\fcis\second.year\ds\ds__\project1\classes.cpp(419): warning C4018: '<': signed/unsigned mismatch
+e:\computer.science\fcis\second.year\ds\ds__\project1\classes.cpp(478): warning C4018: '<': signed/unsigned mismatch
+e:\computer.science\fcis\second.year\ds\ds__\project1\classes.cpp(497): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Project1.vcxproj -> E:\Computer.Science\FCIS\Second.Year\DS\Ds__\Debug\Project1.exe

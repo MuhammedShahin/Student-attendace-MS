@@ -1,0 +1,15 @@
+2 logic 05 math3 01 is 00 ds 10 rw 00 probability 01 
+3 logic 01 math3 01 is 15 ds 14 rw 23 probability 22 
+1 logic 01 math3 20 is 10 ds 04 rw 20 probability 13 
+5 logic 01 math3 01 is 15 ds 11 rw 23 probability 12 
+4 logic 01 math3 01 is 15 ds 14 rw 09 probability 02 
+999 logic 03 math3 20 is 10 ds 04 rw 20 probability 13 
+2016170345 logic 04 math3 20 is 10 ds 04 rw 20 probability 13 
+
+
+
+
+
+
+
+
